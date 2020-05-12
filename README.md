@@ -6,6 +6,7 @@ The agent was built for x86_64 and only includes binaries for this architecture.
 
 This app was tested on:
   - TS-873U-RP (firmware 4.3.6.1040)
+  - TS-463UX (firmware 4.4.1.1064)
   
 Feel free to make further improvements as this was just a quickly thrown-together tool to have "something" that lets me monitor our storage servers in New Relic Infrastructure, since I couldn't find any existing way of doing that.
 
